@@ -15,3 +15,7 @@ sudo chmod -R 777 <directory-name>
 ##Running your program
 1. Run command "./service.sh" to start the crawler. 
 
+##TODOs
+1. URL Monitoring of status.csv and upstart.log
+2. API to start script.
+3. Master script to control slave servers.
